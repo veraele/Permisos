@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="btn_contacts">Contacts</string>
+    <string name="btn_camera">Camera</string>
+    <string name="permissionOK">Permiso Aceptado</string>
+    <string name="permissionKO">Permiso Denegado</string>
+</resources>
